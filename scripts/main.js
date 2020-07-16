@@ -14,8 +14,10 @@ myImage.onclick = function() {
 }
 
 
-var myButton = document.querySelector('button');
+//var myButton = document.querySelector('button');
 var myHeading = document.querySelector('h1');
+
+
 
 function setUserName(myName, numberofname) {
 
@@ -24,8 +26,11 @@ function setUserName(myName, numberofname) {
     localStorage.setItem('name'+numberofname, myName);
     myHeading.textContent = 'Welcome, ' + myName;
 }
+const para = document.querySelector('test');
 
-myButton.onclick = function()
+para.addEventListener('click', updateName);
+
+function updateName()
 {
     var myName = prompt('Please enter your name.');
     var numberofnames = localStorage.getItem('number');
@@ -45,6 +50,7 @@ myButton.onclick = function()
 }
 
 myHeading.textContent = 'Mozilla is cool';
+
 
 
 
