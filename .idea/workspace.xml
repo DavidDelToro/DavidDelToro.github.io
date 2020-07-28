@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3439f0d-ff1c-4c9a-846a-b73ea9ea1a20" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/NumGame/number-guessing-game-start.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/game.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/chat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/game.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/game.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -76,6 +76,7 @@
       <workItem from="1594977874571" duration="804000" />
       <workItem from="1594995686635" duration="792000" />
       <workItem from="1595428702154" duration="1401000" />
+      <workItem from="1595934028569" duration="509000" />
     </task>
     <servers />
   </component>

@@ -11,9 +11,7 @@ var guessField = document.querySelector('.guessField');
 var guessCount = 1;
 var resetButton;
 
-var test= [1,2,3];
 
-test.forEach(element=>{console.log(element);});
 
 function checkGuess() {
 var randomNumber = Math.floor(Math.random() * 100) + 1;
